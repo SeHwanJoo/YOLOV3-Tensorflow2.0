@@ -113,3 +113,12 @@ yolov3-tiny use [yolov3-tiny.conv11](https://drive.google.com/file/d/18v36esoXCh
 ![000129](https://user-images.githubusercontent.com/24911666/95420364-43031b00-0976-11eb-8833-682c918bd3ed.jpg)
 ![000140](https://user-images.githubusercontent.com/24911666/95420366-44344800-0976-11eb-8472-561868b41b3e.jpg)
 ![000173](https://user-images.githubusercontent.com/24911666/95420372-45657500-0976-11eb-826f-e6cc4044ba54.jpg)
+
+
+### YOLO V3 mAP
+
+### detect image
+
+## TODO
+- evaluate recall
+- train on voc 2007 + voc 2012
