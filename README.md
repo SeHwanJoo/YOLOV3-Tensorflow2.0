@@ -8,7 +8,7 @@ python : 3.7.8
 
 tensorflow : 2.2.0
 
-##train
+## train
 ### hyper parameter
     STRIDES = [8, 16, 32]
     STRIDES_TINY = [16, 32]
