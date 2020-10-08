@@ -57,7 +57,12 @@ tensorflow : 2.2.0
 
         return image, bboxes
         
-        
+### pretrained model
+
+yolov3 use [darknet53.conv.74](https://pjreddie.com/media/files/darknet53.conv.74)
+
+yolov3-tiny use [yolov3-tiny.conv11](https://drive.google.com/file/d/18v36esoXCh-PsOKwyP2GWrpYDptDY8Zf/view)
+
 ### benchmark
 |Model|mAP 50|train dataset|val dataset|
 |:------:|:---:|:---:|:---:|
